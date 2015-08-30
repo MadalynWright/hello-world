@@ -1,0 +1,17 @@
+﻿nav {
+    float: left;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    float: left;
+    display: inline;
+}
+
+nag ul li a {
+    display: block;
+    padding: 15px 25px;
+}
