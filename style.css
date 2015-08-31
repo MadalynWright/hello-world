@@ -1,17 +1,26 @@
-﻿nav {
+﻿body {
+    font-family: Verdana, sans-serif;
+}
+
+nav {
     float: left;
+}
+
+nav a {
+    text-decoration: none;
 }
 
 nav ul {
     text-align: center;
-}
-
-nav ul li {
-    float: left;
-    display: inline;
+    list-style: none;
 }
 
 nav ul li a {
     display: block;
     padding: 15px 25px;
+    float: left;
+}
+
+#youarehere {
+    font-weight: bold;
 }
