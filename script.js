@@ -1,5 +1,3 @@
-function myFunction() {
-    $("p").html("Hello jQuery");
-};
-
-$(document).ready(myFunction);
+$(document).ready(function () {
+    $('nav li').hide();
+});
