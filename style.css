@@ -8,6 +8,7 @@ nav {
 
 nav a {
     text-decoration: none;
+    padding: 15px;
 }
 
 nav ul {
@@ -17,8 +18,8 @@ nav ul {
 
 nav ul li a {
     display: block;
-    padding: 15px 25px;
     float: left;
+    padding: 10px;
 }
 
 #youarehere {
